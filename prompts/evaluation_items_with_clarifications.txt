@@ -1,0 +1,164 @@
+2.4.1. 완결성 (Completeness)
+주어진 페르소나가 필요한 정보를 모두 충분히 포함하고 있는지를 측정한다.
+1
+The persona profile is detailed enough to make decisions about the customers it describes.
+본 연구에서는 결정을 내릴 추가 과제 맥락이 없으므로 제외함.
+2
+The persona profile seems complete.
+이 인물 배경은 모든 내용을 잘 갖추고 있다.
+주어진 인물 배경에 이 사람에 대한 정보가 빠짐없이 포함되어 있는지 물어보는 질문입니다.
+3
+The persona profile provides enough information to understand the people it describes.
+이 인물 배경은 해당 인물을 이해하기에 충분한 정보를 제공한다.
+주어진 인물 배경을 바탕으로 이 사람을 얼마나 이해할 수 있었는지를 물어보는 질문입니다.
+
+
+4
+The persona profile is not missing vital information.
+이 인물 배경은 필수적인 정보가 빠짐없이 모두 포함되어 있다.
+주어진 인물 배경에 이 사람을 이해하기에 꼭 필요한 정보가 모두 포함되어있는지 물어보는 질문입니다.
+
+
+2.4.2. 일관성 (Consistency)
+주어진 페르소나 속 정보가 서로 모순되지 않는지를 측정한다. 
+1
+The quotes of the persona match other information shown in the persona profile.
+이 인물 배경의 대화 예시는 주어진 인물 배경의 다른 내용과 일치한다.
+주어진 배경의 대화 예시가 다른 정보와 자연스럽게 일치하는지 물어보는 질문입니다.
+2
+The picture of the persona matches other information shown in the persona profile.
+본 연구에서는 페르소나 사진이 없으므로 제외함.
+3
+The persona information seems consistent.
+이 인물에 대한 정보는 앞뒤가 잘 맞고 자연스럽다.
+주어진 인물에 대한 정보가 서로 잘 맞물리고 어색한 부분이 없는지 물어보는 질문입니다.
+4
+The persona’s demographic information (age, gender, country) corresponds with other information shown in the persona profile.
+이 인물의 특징들은 (나이, 성별, 사는 곳 등) 주어진 인물 배경의 다른 내용과 잘 들어맞는다. 
+이 인물의 기본적인 특징들이 배경의 다른 내용들과 서로 잘 맞물리고 어색한 부분이 없는지 물어보는 질문입니다.
+
+
+
+
+
+
+
+2.4.3. 명확성 (Clarity)
+주어진 페르소나의 정보가 명확하게 전달되는지를 측정한다.
+1
+The information about the persona is well presented.
+이 인물에 대한 정보가 잘 구성되어 제공되었다.
+주어진 인물 배경이 얼마나 알아보기 좋게 정리되어 있는지 물어보는 질문입니다.
+2
+The text in the persona profile is clear enough to read.
+본 연구에서는 페르소나 전달 매체의 가독성은 평가 목적이 아니기에 제외함.
+3
+The information in the persona profile is easy to understand.
+이 인물 배경의 내용은 이해하기 쉽다.
+주어진 인물 배경이 쉽고 이해하기 쉬운 방식으로 작성되어 있는지 묻는 질문입니다.
+4
+The persona is memorable.
+PPS 저자들이 분석 결과를 바탕으로 제외함.
+
+
+2.4.4. 개연성 (Credibility / Authenticity)
+페르소나 채택 및 사용의 가장 기본적인 전제 조건이다. 주어진 페르소나가 얼마나 믿을만한지를 측정한다.
+1
+
+
+This persona seems like a real person.
+이 인물은 실제로 있을법한 사람처럼 느껴진다.
+주어진 인물이 실제로 존재할 것 같은 정도를 묻는 질문입니다.
+2
+I have met people like this persona.
+나는 이 인물과 유사한 사람을 실제로 만나본 적이 있다.
+주어진 인물과 유사한 사람을 실제로 과거에 만나봤는지 묻는 질문입니다.
+
+
+
+3
+The picture of the persona looks authentic.
+본 연구에서는 페르소나 사진이 없으므로 제외함.
+4
+The persona seems to have a personality.
+PPS 저자 본인들이 분석 결과를 바탕으로 제외함.
+
+
+2.4.5. 공감 가능성 (Empathy)
+평가자가 주어진 페르소나에 얼마나 공감할 수 있는지를 평가한다.
+1
+I feel like I understand this persona.
+나는 이 인물을 이해할 수 있을 것 같다.
+이 인물을 (주어진 내용을 바탕으로) 얼마나 이해할 수 있는지 묻는 질문입니다.
+2
+I feel strong ties to this persona.
+나는 이 인물에게 강한 유대감을 느낀다.
+이 인물에게 얼마나 유대감 및 공감을 느끼는지 묻는 질문입니다.
+3
+I can imagine a day in the life of this persona.
+나는 이 인물의 하루 일상을 상상할 수 있다.
+이 인물이 아침에 일어나서 일상을 보내고, 다시 잠들기까지 일어날 일들을 자연스럽게 상상할 수 있는지 물어보는 질문입니다.
+
+
+2.4.6. 유사성 (Similarity)
+평가자가 주어진 페르소나와 얼마나 비슷하다고 느끼는지를 측정한다. 노인 평가에서만 사용한다.
+1
+This persona feels similar to me.
+이 인물은 나와 비슷한 것 같다.
+이 인물과 자신이 얼마나 닮았다고 느끼는지를 묻는 질문입니다.
+
+
+2
+This persona and I think alike.
+이 인물과 나는 생각하는 방식이 비슷하다.
+이 인물과 자신이 평소에 생각하는 방식이 얼마나 비슷한지를 묻는 질문입니다.
+3
+This persona and I share similar interests.
+이 인물과 나는 비슷한 관심사를 공유한다.
+이 인물과 자신이 가지고 있는 관심사 (취미 등)이 얼마나 비슷한지를 묻는 질문입니다.
+4
+I believe I would agree with this persona on most matters.
+나는 대부분의 상황에서 이 인물과 의견이 같을 것 같다.
+이 인물과 자신이 다양한 상황에서 얼마나 같은 결정을 내릴 것 같은지 묻는 질문입니다.
+
+
+
+
+
+
+
+
+
+2.5.1. 기억 (Memorization)
+Is the response provides truthful and detailed facts about the character?
+이 인물에 대한 사실적이고 구체적인 내용들이 대화에 포함되어 있다.
+이 인물이 자신과 관련된 사람, 사건, 사물에 대해 주어진 인물 배경에 부합하는 정확하고 구체적인 내용을 대화에서 잘 포함했는지 묻는 질문입니다. 
+
+
+2.5.2. 성격 (Personality)
+Is the response reflects the personalities and preferences of the character?
+이 인물의 성격과 선호가 대화에 반영되어 있다.
+이 인물이 대화에서 보여주는 말투, 태도, 감정표현이 주어진 인물 배경과 일치하는지를 묻는 질문입니다. 
+
+
+2.5.3. 가치관 (Values)
+Is the response reflects the values and convictions of the character?
+이 인물의 가치관과 신념이 대화에 반영되어 있다.
+이 인물이 대화에서 보여주는 목표와 가치관이 주어진 인물 배경과 일치하는지를 묻는 질문입니다.
+
+
+2.5.4. 환각 (Hallucination)
+Is the response avoids to say things that the character do not know?
+이 인물은 모를 만한 것을 알고 있는것처럼 말하지 않는다.
+이 인물이 대화에서 보여주는 지식이나 능력이 인물 배경 범위 안에 있는지를 묻는 질문입니다.
+
+
+
+
+
+2.5.5. 안정성 (Stability)
+Is the assistant maintain a good performance over the long interactions?
+이 인물은 긴 대화에서도 주어진 인물 배경과 일관된 모습을 유지한다.
+이 인물이 긴 대화에서도 주어진 인물 배경에서 벗어나지 않고, 대화 내내 일관된 모습을 유지하는지 묻는 질문입니다. 
+
+
